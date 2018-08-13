@@ -16,10 +16,10 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1. Describe, step by step, what happens when I type `www.example.com` into my browser and try to go to the page?
 
-  * (1) client goes to the DNS server & finds the address of the server that the website lives on 
-  * (2) client sends an HTTP request message across the internet connection using TCP/IP to the server to send a copy of the website to the client 
-  * (3) If the server approves the client's request, the server sends the "200 OK" message to say so and then starts sending the website's files to the client as a series of small chunks called data packets. 
-  * (4) The client assembles the small chunks into a complete website & displays it to you. 
+  * (1) The browser goes to the DNS server & finds the address of the server that the website lives on 
+  * (2) The browser sends an HTTP request message across the internet connection using TCP/IP to the server to send a copy of the website to the client 
+  * (3) If the server approves the client's request, the server sends the "200 OK" message to say so and then starts sending the website's files to the browser as a series of small chunks called data packets. 
+  * (4) The browser assembles the small chunks into a complete website & displays it to you. 
 
 1.  What does HTTP stand for?
 
