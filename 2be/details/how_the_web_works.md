@@ -16,10 +16,10 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1. Describe, step by step, what happens when I type `www.example.com` into my browser and try to go to the page?
 
-  * (1) browser goes to the DNS server & finds the address of the server that the website lives on 
-  * (2) browser sends an HTTP request message across the internet connection using TCP/IP to the server to send a copy of the website to the client 
-  * (3) If the server approves the client's request, the server sends the "200 OK" message to say so and then starts sending the website's files to the browser as a series of small chunks called data packets. 
-  * (4) The browser assembles the small chunks into a complete website & displays it to you. 
+  * (1) client goes to the DNS server & finds the address of the server that the website lives on 
+  * (2) client sends an HTTP request message across the internet connection using TCP/IP to the server to send a copy of the website to the client 
+  * (3) If the server approves the client's request, the server sends the "200 OK" message to say so and then starts sending the website's files to the client as a series of small chunks called data packets. 
+  * (4) The client assembles the small chunks into a complete website & displays it to you. 
 
 1.  What does HTTP stand for?
 
@@ -27,7 +27,7 @@ Now we have a better grasp about the internet, and how some of the things are wo
   
 1. 	What protocol does the World Wide Web use?
 
-  * HTTP
+  * HTTP/HTTPS
   
 1. 	Each computer on the Internet is assigned an IP address, what does IP stand for?
 
@@ -36,10 +36,10 @@ Now we have a better grasp about the internet, and how some of the things are wo
 1. 	What does DNS stand for?
 
   * A. Domain Name System
-  ~~* B. Digital Number System
-  * C. Domain Number System
-  * D. Domain Name Service
-  * E. Digital Name Service~~
+  ~~* B. Digital Number System~~
+  ~~* C. Domain Number System~~
+  ~~* D. Domain Name Service~~
+  ~~* E. Digital Name Service~~
   
 1. 	How are text domain names matched to their respective numeric IP addresses.
 
@@ -51,11 +51,11 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1. 	What is the client?
 
-  ~~* A. A purchaser
-  * B. Internet shopping customer (Consumer)~~
+  ~~* A. A purchas~~
+  ~~* B. Internet shopping customer (Consumer)~~
   * C. The software which requests information from a server (browser)
-  ~~* D. The server to which a particular computer sends data
-  * E. The computer which the IP address belongs to~~
+  ~~* D. The server to which a particular computer sends data~~
+  ~~* E. The computer which the IP address belongs to~~
 
 1. 	What does URL stand for?
 
@@ -63,9 +63,9 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1. 	What are protocols
 
- ~~* A. The standardisation of IP addressess
- * B. The DNS standard method for data transfer
- * C.	The standardised network address system~~
+ ~~* A. The standardisation of IP addressess~~
+ ~~* B. The DNS standard method for data transfer~~
+ ~~* C.	The standardised network address system~~
  * D.	The standardised method for transferring data or documents over a network
 ~~* E.	The standardised method for prioratising data or document storage over a network~~
  
@@ -75,7 +75,7 @@ Now we have a better grasp about the internet, and how some of the things are wo
   
 1. what is the `www` portion of a url?
 
-  * The domain name, which is substituted for an IP address to indicate which web server is being requested. 
+  * www stands for world wide web. The domain name, which is substituted for an IP address to indicate which web server is being requested. 
   
 1. What is The markup language used for all web documents?
 
@@ -87,11 +87,11 @@ Now we have a better grasp about the internet, and how some of the things are wo
   
 1. What is the Protocol for transferring web documents on the Internet?
 
-  * HTTP
+  * TCP/IP
 
 1. What matches the domain names with numeric IP addresses?
 
-  * A DNS server
+  * A DNS server or a local DNS cache on your computer
 
 
 
