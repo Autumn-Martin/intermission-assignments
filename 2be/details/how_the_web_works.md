@@ -51,11 +51,11 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1. 	What is the client?
 
-  *~~A. A purchaser~~
-  *~~B. Internet shopping customer (Consumer)~~
-  * C. The software which requests information from a server (browser)
-  *~~D. The server to which a particular computer sends data~~
-  *~~E. The computer which the IP address belongs to~~
+  *A. ~~A purchaser~~
+  *B. ~~Internet shopping customer (Consumer)~~
+  *C. The software which requests information from a server (browser)
+  *D. ~~The server to which a particular computer sends data~~
+  *E. ~~The computer which the IP address belongs to~~
 
 1. 	What does URL stand for?
 
@@ -63,11 +63,11 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1. 	What are protocols
 
- ~~* A. The standardisation of IP addressess~~
- ~~* B. The DNS standard method for data transfer~~
- ~~* C.	The standardised network address system~~
+ * A. ~~The standardisation of IP addressess~~
+ * B. ~~The DNS standard method for data transfer~~
+ * C.	~~The standardised network address system~~
  * D.	The standardised method for transferring data or documents over a network
-~~* E.	The standardised method for prioratising data or document storage over a network~~
+ * E.	~~The standardised method for prioratising data or document storage over a network~~
  
 1. What does DNS stand for?
 
