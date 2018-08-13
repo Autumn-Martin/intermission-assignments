@@ -23,7 +23,7 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1.  What does HTTP stand for?
 
-  * *H*yper *T*ext *T*ransfer* *P*rotocol
+  * **H**yper **T**ext **T**ransfer **P**rotocol
   
 1. 	What protocol does the World Wide Web use?
 
@@ -31,15 +31,15 @@ Now we have a better grasp about the internet, and how some of the things are wo
   
 1. 	Each computer on the Internet is assigned an IP address, what does IP stand for?
 
-  * *i*nternet *p*rotocol
+  * **i**nternet **p**rotocol
   
 1. 	What does DNS stand for?
 
   * A. Domain Name System
-  ~~* B. Digital Number System~~
-  ~~* C. Domain Number System~~
-  ~~* D. Domain Name Service~~
-  ~~* E. Digital Name Service~~
+  * B. ~~Digital Number System~~
+  * C. ~~Domain Number System~~
+  * D. ~~Domain Name Service~~
+  * E. ~~Digital Name Service~~
   
 1. 	How are text domain names matched to their respective numeric IP addresses.
 
@@ -59,7 +59,7 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1. 	What does URL stand for?
 
-* *U*niform *R*esource *L*ocator
+* **U**niform **R**esource **L**ocator
 
 1. 	What are protocols
 
@@ -71,15 +71,15 @@ Now we have a better grasp about the internet, and how some of the things are wo
  
 1. What does DNS stand for?
 
-  * *D*omain *N*ame *s*ystem
+  * **D**omain **N**ame **S**ystem
   
 1. what is the `www` portion of a url?
 
-  * www stands for world wide web. The domain name, which is substituted for an IP address to indicate which web server is being requested. 
+  * `www` stands for world wide web. The domain name, which is substituted for an IP address to indicate which web server is being requested. 
   
 1. What is The markup language used for all web documents?
 
-  * *H*yper*t*ext *M*arkup *L*anguage, or HTML
+  * **H**yper**t**ext **M**arkup **L**anguage, or HTML
 
 1. What is the organization that monitors web technologies?
 
